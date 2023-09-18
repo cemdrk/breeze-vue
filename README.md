@@ -1,3 +1,13 @@
+# [Herd](https://herd.laravel.com/) Generated Templates
+- [Breeze + Inertia + Vue](https://github.com/cemdrk/breeze-vue)
+- [Breeze + Inertia + Vue + Dark Mode + SSR + Typescript](https://github.com/cemdrk/breeze-vue/tree/dark-ssr-typescript)
+- [Breeze API Only](https://github.com/cemdrk/breeze-vue/tree/api-only)
+- [Breeze + Blade](https://github.com/cemdrk/breeze-vue/tree/blade)
+
+```
+    npx degit https://github.com/cemdrk/breeze-vue
+```
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
