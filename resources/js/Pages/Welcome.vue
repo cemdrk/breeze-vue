@@ -1,22 +1,12 @@
-<script setup>
+<script setup lang="ts">
 import { Head, Link } from '@inertiajs/vue3';
 
-defineProps({
-    canLogin: {
-        type: Boolean,
-    },
-    canRegister: {
-        type: Boolean,
-    },
-    laravelVersion: {
-        type: String,
-        required: true,
-    },
-    phpVersion: {
-        type: String,
-        required: true,
-    },
-});
+defineProps<{
+    canLogin?: boolean;
+    canRegister?: boolean;
+    laravelVersion: string;
+    phpVersion: string;
+}>();
 </script>
 
 <template>
